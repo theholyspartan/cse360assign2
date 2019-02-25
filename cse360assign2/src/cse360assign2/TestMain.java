@@ -9,8 +9,8 @@ public class TestMain {
 		test.multiply(-2);
 		test.divide(0);
 		
-		test.getTotal();
-		test.getHistory();
+		System.out.println(test.getTotal());
+		System.out.println(test.getHistory());
 
 	}
 
